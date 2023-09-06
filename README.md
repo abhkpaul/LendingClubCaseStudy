@@ -29,15 +29,16 @@ The aim is to identify patterns which indicate if a person is likely to default,
 
 ## Plots Used
 * Bar Plots
-- Box Plots
+* Box Plots
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 
 ## Technologies Used
-- Python3
-- Matplotlib
+* Python3
+* Matplotlib
 
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
 ## Submitted By
+* Abhishek Paul
